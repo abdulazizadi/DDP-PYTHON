@@ -1,0 +1,6 @@
+print("+++++++++++++++++")
+print("Nama/t:abdul aziz adi")
+print("Nim/t :0110223096")
+print("Kelas/t:TI03")
+print("Alamat/t:Bogor")
+print("+++++++++++++++++")
