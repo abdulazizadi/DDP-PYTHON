@@ -1,0 +1,6 @@
+print("+++++++++++++++++")
+print("Nama/t:Bedrul")
+print("Nim/t :0110223765")
+print("Kelas/t:TI100")
+print("Alamat/t:Bogor")
+print("+++++++++++++++++")
